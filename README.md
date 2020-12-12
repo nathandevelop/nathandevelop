@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.nathandevelop.vercel.app/api/spotify)](https://open.spotify.com/user/darkmodhd)
+[![Spotify](https://darkmodhd.vercel.app/api/spotify)](https://open.spotify.com/user/darkmodhd)
 
 ---
 ### Languages and Tools 🛠 
