@@ -24,10 +24,3 @@
 
 <br/>
 
----
-<br/>
-
-![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nathandevelop&show_icons=true&theme=radical)
-<br/>
----
-Last Edited on: 23/09/2020
