@@ -2,20 +2,12 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## Currently Studing Comp Science and Cyber/Networking
-
-- 👨‍💻 Working Hard
-- 📚 Studying
-- 💪🏼 Become Cyber Secruity Specialist or Software Developer
-- ⚡ Fun fact: I love to play soccer :P 
-
----
-
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.darkmodhd.vercel.app/api/spotify)](https://open.spotify.com/user/darkmodhd)
+[![Spotify](https://novatorem.darkmodhd.vercel.app/api/spotify)](https://open.spotify.com      Cancel changes
+/user/darkmodhd)
 
 ---
 ### Languages and Tools 🛠 
