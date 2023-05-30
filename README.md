@@ -6,8 +6,6 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.darkmodhd.vercel.app/api/spotify)](https://open.spotify.com      Cancel changes
-/user/darkmodhd)
 
 ---
 ### Languages and Tools 🛠 
